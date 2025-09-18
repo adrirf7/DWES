@@ -1,0 +1,14 @@
+C:\ADRIAN\DWES\programa3\bin\Debug\net9.0\programa3.exe
+C:\ADRIAN\DWES\programa3\bin\Debug\net9.0\programa3.deps.json
+C:\ADRIAN\DWES\programa3\bin\Debug\net9.0\programa3.runtimeconfig.json
+C:\ADRIAN\DWES\programa3\bin\Debug\net9.0\programa3.dll
+C:\ADRIAN\DWES\programa3\bin\Debug\net9.0\programa3.pdb
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.AssemblyInfoInputs.cache
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.AssemblyInfo.cs
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.csproj.CoreCompileInputs.cache
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.dll
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\refint\programa3.dll
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.pdb
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.genruntimeconfig.cache
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\ref\programa3.dll

@@ -1,0 +1,14 @@
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\bin\Debug\net9.0\Actividad1_RA2.exe
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\bin\Debug\net9.0\Actividad1_RA2.deps.json
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\bin\Debug\net9.0\Actividad1_RA2.runtimeconfig.json
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\bin\Debug\net9.0\Actividad1_RA2.dll
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\bin\Debug\net9.0\Actividad1_RA2.pdb
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.AssemblyInfoInputs.cache
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.AssemblyInfo.cs
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.csproj.CoreCompileInputs.cache
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.dll
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\refint\Actividad1_RA2.dll
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.pdb
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\Actividad1_RA2.genruntimeconfig.cache
+C:\ADRIAN\DWES\Actividades\Actividad1_RA2\obj\Debug\net9.0\ref\Actividad1_RA2.dll

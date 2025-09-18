@@ -1,0 +1,14 @@
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.AssemblyInfoInputs.cache
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.AssemblyInfo.cs
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.csproj.CoreCompileInputs.cache
+C:\ADRIAN\DWES\programa2\bin\Debug\net9.0\programa2.exe
+C:\ADRIAN\DWES\programa2\bin\Debug\net9.0\programa2.deps.json
+C:\ADRIAN\DWES\programa2\bin\Debug\net9.0\programa2.runtimeconfig.json
+C:\ADRIAN\DWES\programa2\bin\Debug\net9.0\programa2.dll
+C:\ADRIAN\DWES\programa2\bin\Debug\net9.0\programa2.pdb
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.dll
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\refint\programa2.dll
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.pdb
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\programa2.genruntimeconfig.cache
+C:\ADRIAN\DWES\programa2\obj\Debug\net9.0\ref\programa2.dll

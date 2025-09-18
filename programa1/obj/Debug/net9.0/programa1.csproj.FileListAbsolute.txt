@@ -1,0 +1,14 @@
+C:\ADRIAN\DWES\Actividades\programa1\bin\Debug\net9.0\programa1.exe
+C:\ADRIAN\DWES\Actividades\programa1\bin\Debug\net9.0\programa1.deps.json
+C:\ADRIAN\DWES\Actividades\programa1\bin\Debug\net9.0\programa1.runtimeconfig.json
+C:\ADRIAN\DWES\Actividades\programa1\bin\Debug\net9.0\programa1.dll
+C:\ADRIAN\DWES\Actividades\programa1\bin\Debug\net9.0\programa1.pdb
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.AssemblyInfoInputs.cache
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.AssemblyInfo.cs
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.csproj.CoreCompileInputs.cache
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.dll
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\refint\programa1.dll
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.pdb
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\programa1.genruntimeconfig.cache
+C:\ADRIAN\DWES\Actividades\programa1\obj\Debug\net9.0\ref\programa1.dll
