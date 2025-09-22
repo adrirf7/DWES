@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ADRIAN\\DWES\\Actividades\\programa1\\programa1.csproj": {}
+    "C:\\ADRIAN\\DWES\\programa1\\programa1.csproj": {}
   },
   "projects": {
-    "C:\\ADRIAN\\DWES\\Actividades\\programa1\\programa1.csproj": {
+    "C:\\ADRIAN\\DWES\\programa1\\programa1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ADRIAN\\DWES\\Actividades\\programa1\\programa1.csproj",
+        "projectUniqueName": "C:\\ADRIAN\\DWES\\programa1\\programa1.csproj",
         "projectName": "programa1",
-        "projectPath": "C:\\ADRIAN\\DWES\\Actividades\\programa1\\programa1.csproj",
+        "projectPath": "C:\\ADRIAN\\DWES\\programa1\\programa1.csproj",
         "packagesPath": "C:\\Users\\CampusFP\\.nuget\\packages\\",
-        "outputPath": "C:\\ADRIAN\\DWES\\Actividades\\programa1\\obj\\",
+        "outputPath": "C:\\ADRIAN\\DWES\\programa1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CampusFP\\AppData\\Roaming\\NuGet\\NuGet.Config"

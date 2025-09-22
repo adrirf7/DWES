@@ -12,3 +12,4 @@ C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\refint\programa3.dll
 C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.pdb
 C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.genruntimeconfig.cache
 C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\ref\programa3.dll
+C:\ADRIAN\DWES\programa3\obj\Debug\net9.0\programa3.sourcelink.json

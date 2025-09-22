@@ -1,0 +1,15 @@
+C:\ADRIAN\DWES\programa9\bin\Debug\net9.0\programa9.exe
+C:\ADRIAN\DWES\programa9\bin\Debug\net9.0\programa9.deps.json
+C:\ADRIAN\DWES\programa9\bin\Debug\net9.0\programa9.runtimeconfig.json
+C:\ADRIAN\DWES\programa9\bin\Debug\net9.0\programa9.dll
+C:\ADRIAN\DWES\programa9\bin\Debug\net9.0\programa9.pdb
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.AssemblyInfoInputs.cache
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.AssemblyInfo.cs
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.csproj.CoreCompileInputs.cache
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.sourcelink.json
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.dll
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\refint\programa9.dll
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.pdb
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\programa9.genruntimeconfig.cache
+C:\ADRIAN\DWES\programa9\obj\Debug\net9.0\ref\programa9.dll

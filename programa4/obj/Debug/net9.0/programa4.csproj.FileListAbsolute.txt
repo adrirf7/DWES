@@ -1,0 +1,15 @@
+C:\ADRIAN\DWES\programa4\bin\Debug\net9.0\programa4.exe
+C:\ADRIAN\DWES\programa4\bin\Debug\net9.0\programa4.deps.json
+C:\ADRIAN\DWES\programa4\bin\Debug\net9.0\programa4.runtimeconfig.json
+C:\ADRIAN\DWES\programa4\bin\Debug\net9.0\programa4.dll
+C:\ADRIAN\DWES\programa4\bin\Debug\net9.0\programa4.pdb
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.AssemblyInfoInputs.cache
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.AssemblyInfo.cs
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.csproj.CoreCompileInputs.cache
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.sourcelink.json
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.dll
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\refint\programa4.dll
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.pdb
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\programa4.genruntimeconfig.cache
+C:\ADRIAN\DWES\programa4\obj\Debug\net9.0\ref\programa4.dll
